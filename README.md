@@ -4,6 +4,16 @@ A simple script for the macOS Services menu that convert selected bible verse nu
 ## How it works
 The script is a Automator Service menu item that uses a bit of JXA to transform any numbers into unicode superscript caractors.
 
+So paste in your bible verse:
+```
+16 For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. 17 For God did not send his Son into the world to condemn the world, but to save the world through him. 18 Whoever believes in him is not condemned...
+```
+
+Then select all, right-click and go to `Services` → `Format Bible Verse`
+```
+¹⁶ For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. ¹⁷ For God did not send his Son into the world to condemn the world, but to save the world through him. ¹⁸ Whoever believes in him is not condemned...
+```
+
 ## Installation
 Download and double click the 
 
