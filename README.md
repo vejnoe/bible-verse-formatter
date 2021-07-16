@@ -1,3 +1,5 @@
+<img src="https://assets.website-files.com/60e9efc80070ba3c631a2ac6/60eeb5d179dd0fc63c0aa76f_256.png" width="128" height="128">
+
 # Bible Verse ¹⁶ Formatter
 A simple script for the macOS Services menu that convert selected bible verse numbers into unicode superscript characters.
 
@@ -5,7 +7,7 @@ A simple script for the macOS Services menu that convert selected bible verse nu
 The script is a Automator Service menu item that uses a bit of JXA to transform any numbers into unicode superscript caractors.
 
 ## Installation
-1. [Download the Bible Verse Fornatter](https://github.com/vejnoe/bible-verse-formatter/raw/main/Format%20Bible%20Verse.zip)
+1. [Download the Bible Verse Formatter](https://github.com/vejnoe/bible-verse-formatter/raw/main/Format%20Bible%20Verse.zip)
 2. Double click the `Format Bible Verse.zip` to unzip
 3. Double click the `Format Bible Verse.workflow` to install 👍  
 
